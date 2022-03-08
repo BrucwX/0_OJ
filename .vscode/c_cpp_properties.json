@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/C/TDM_GCC/include/*",
+                "E:/C/TDM_GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/*",
+                "E:/C/TDM_GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/*",
+                "E:/C/TDM_GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/*",
+                "E:/C/TDM_GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/backward/*",
+                "E:/C/TDM_GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/*",
+                "E:/C/TDM_GCC/x86_64-w64-mingw32/include/*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "E:/C/CodeBlock/CodeBlocks/MinGW/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
